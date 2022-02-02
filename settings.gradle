@@ -1,0 +1,2 @@
+rootProject.name = "SkolConnec_New"
+include ':app'
