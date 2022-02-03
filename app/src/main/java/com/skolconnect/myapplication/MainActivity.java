@@ -1,4 +1,4 @@
-package com.skolconnect.skolconnec_new;
+package com.skolconnect.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

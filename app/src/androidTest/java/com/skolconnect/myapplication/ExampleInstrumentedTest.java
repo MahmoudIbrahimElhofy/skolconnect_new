@@ -1,4 +1,4 @@
-package com.skolconnect.skolconnec_new;
+package com.skolconnect.myapplication;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.skolconnect.skolconnec_new", appContext.getPackageName());
+        assertEquals("com.skolconnect.myapplication", appContext.getPackageName());
     }
 }
